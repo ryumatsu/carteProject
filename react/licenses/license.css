@@ -1,0 +1,44 @@
+.submit-form-btn-license {
+    position: relative;
+    top: 10px;
+}
+
+.license-admin-page div {
+    background-color: #fff;
+}
+
+.createdby-form-license-admin {
+    display: flex;
+}
+
+.has-error {
+    color: red;
+}
+
+.rc-pagination.license-table-paginationBtn {
+    padding: 20px;
+}
+
+.card-title.h5 {
+    padding-left: 25px;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flexbox-item-1 {
+    background-color: dark;
+    color: dark;
+    width: 18rem;
+    margin-top: 30px;
+    margin-left: 12px;
+}
+
+.flexbox-item-2 {
+    width: 500px;
+    margin: 10px;
+    border: 3px solid dark;
+    background-color: dark;
+}
